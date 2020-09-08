@@ -6,8 +6,8 @@ body{
 }
 
 img {
-    width: 650px;
-    height: 650px;
+    width: 750px;
+    height: 750px;
     position: fixed;
     align-items: center;
     top: 50%;
@@ -34,7 +34,7 @@ img {
   }
 
 }*/
-@media screen and (max-width: 450px){
+@media screen and (max-width: 600px){
    img{
     width: 300px;
     height: 300px;
