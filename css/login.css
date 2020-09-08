@@ -1,5 +1,6 @@
 body{
 	background-color: grey;
+	background-image: url("../image/background.jpg");
 	margin: 2rem
 }
 #wrapper{
