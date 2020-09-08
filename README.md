@@ -1,1 +1,1 @@
-LINK: https://rakshulrajkaushik.github.io/kaam/
+https://yashovrat1.github.io/kaam/
